@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => {
             </head>
             <body>
                 <h1>Welcome to Lab 6!</h1>
-                <p>GitHub Actions CI Pipeline is our next step.</p>
+                <p>GitHub Actions CI Pipeline is working successfully.</p>
             </body>
         </html>
     `);
